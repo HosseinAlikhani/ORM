@@ -1,0 +1,20 @@
+{
+    "name": "d3cr33/orm",
+    "description": "eloquent ORM like laravel eloquent",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HosseinAlikhani",
+            "email": "poshtiban.esteam@gmail.com"
+        }
+    ],
+    "require": {},
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
